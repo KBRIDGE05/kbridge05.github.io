@@ -1,0 +1,28 @@
+네이버 서치어드바이저 등록용 파일입니다.
+
+1. 루트 저장소 kbridge05.github.io에 업로드할 파일
+- robots.txt
+- sitemap.xml
+
+업로드 후 아래 주소가 열려야 합니다.
+- https://kbridge05.github.io/robots.txt
+- https://kbridge05.github.io/sitemap.xml
+
+2. kbexpress 저장소에 업로드할 파일
+- kbexpress 폴더 안의 index.html 및 관련 파일 전체
+
+업로드 후 아래 주소가 열려야 합니다.
+- https://kbridge05.github.io/kbexpress/
+
+3. 네이버 서치어드바이저에서 할 일
+- 요청 → 사이트맵 제출
+- https://kbridge05.github.io/sitemap.xml 제출
+- 검증 → robots.txt 확인
+- 검증 → 웹 페이지 최적화에서 https://kbridge05.github.io/kbexpress/ 검사
+
+반영된 항목
+- title
+- description
+- robots index,follow
+- canonical
+- Open Graph 기본 태그
